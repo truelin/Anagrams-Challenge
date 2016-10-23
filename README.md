@@ -2,4 +2,6 @@
 Hello,
 This is my first attempt at using GitHub, I was given a challenge to write an anagram finder and post the codes online.  
 
-The form.html calls the CGI-Bash file dostuff.sh
+There are two files you will need them both, form.html and sostuff.sh.
+
+Form.html calls dostuff.sh
