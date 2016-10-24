@@ -5,7 +5,7 @@ echo ""
 
 echo '<html>'
 echo '<head>'
-echo '<title>Environment Variables</title>'
+echo '<title>Anagrams</title>'
 echo '</head>'
 echo '<STYLE type="text/css">BODY {text-align: center}</STYLE>'
 echo '<br>'
